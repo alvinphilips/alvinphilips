@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinphilips&layout=compact&exclude_repo=byzantine)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 <!--
 **polarvoid/polarvoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
